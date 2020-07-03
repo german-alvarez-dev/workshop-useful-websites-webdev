@@ -42,11 +42,12 @@ A selection of some interesting websites for you as a developer.
 | Adobe Color Wheel  | [link](https://color.adobe.com/es/create/color-wheel/)  | Color codes wheel                                   |
 | Codrops            | [link](https://tympanus.net/codrops/)                   | Tutorials and inspirational resources               |
 | Codepen            | [link](https://codepen.io/)                             | Front-end dev playground for inspiration            |
+| Codesandbox            | [link](https://codesandbox.io/explore)                             | SPA oriented front-end dev playground for inspiration            |
 | Google Fonts       | [link](https://fonts.google.com)                        |  Webfonts repository                                |
 
 
 
-## Inspiration
+## UI / design inspiration
 
 | Name              | URL                                                                | Description                                      |
 |-------------------|--------------------------------------------------------------------|--------------------------------------------------|
