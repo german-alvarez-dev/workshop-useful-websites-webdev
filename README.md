@@ -28,6 +28,9 @@ A selection of some interesting websites for you as a developer.
 | Cooperpress               | [link](https://cooperpress.com/publications)               | Newsletters about dev technologies                                        |
 | Dev Roadmap               | [link](https://github.com/kamranahmedse/developer-roadmap) | Developers roadmap!                                                       |
 | Make a Readme             | [link](https://www.makeareadme.com/)                       | How to create a useful readme on a repo                                   |
+| Clean Code Principles             | [link](https://github.com/ryanmcdermott/clean-code-javascript)                       | Code clean, think clean.                                  |
+
+
 
 ## Resources (images, fonts, code snippets)
 
