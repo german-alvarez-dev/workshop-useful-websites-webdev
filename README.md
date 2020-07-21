@@ -29,6 +29,9 @@ A selection of some interesting websites for you as a developer.
 | Dev Roadmap               | [link](https://github.com/kamranahmedse/developer-roadmap) | Developers roadmap!                                                       |
 | Make a Readme             | [link](https://www.makeareadme.com/)                       | How to create a useful readme on a repo                                   |
 | Clean Code Principles             | [link](https://github.com/ryanmcdermott/clean-code-javascript)                       | Code clean, think clean.                                  |
+| The State of Js 2019             | [link](https://2019.stateofjs.com/)                       | Estado de la industria de JS (2019).                                  |
+
+
 
 
 
