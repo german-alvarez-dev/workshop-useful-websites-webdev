@@ -60,3 +60,10 @@ A selection of some interesting websites for you as a developer.
 | 99designs         | [link](https://99designs.es/blog/)                                         | Hundreds of selected web designs for inspiration |
 | Webflow showcase  | [link](https://webflow.com/discover/popular)                               | Webflow showcase                                 |
 | Awwwards          | [link](https://www.awwwards.com/)                                          | Website awards for discovering and inspiration   |
+
+
+## Fun + learn
+
+| Name              | URL                                                                | Description                                      |
+|-------------------|--------------------------------------------------------------------|--------------------------------------------------|
+| HTTP Cat         | [link](https://http.cat/) | HTTP status through cat memes |
